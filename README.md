@@ -1,4 +1,4 @@
-Scam BERT Detector
+Scam Guard BERT Detector
 
 This project is a text classification model that detects scam and phishing messages using a fine-tuned BERT model.
 
